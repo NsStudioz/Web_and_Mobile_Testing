@@ -1,0 +1,1 @@
+Build files from each project have been removed as they are too big to upload to GitHub.
